@@ -1,0 +1,2102 @@
+[
+  {
+    "id": "0e73916e-69cc-5d84-8d50-433e7e5dffd5",
+    "entity_type": "repository",
+    "name": "awesome-artificial-intelligence",
+    "description": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+    "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence"
+    },
+    "metadata": {
+      "stars": 16151,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T15:22:45Z"
+    }
+  },
+  {
+    "id": "b9cf20a9-b8af-5a18-8c57-e2617d4be511",
+    "entity_type": "repository",
+    "name": "Artificial-Intelligence",
+    "description": "Awesome AI Learning with +100 AI Cheat-Sheets, Free online Books, Top Courses, Best Videos and Lectures, Papers, Tutorials, +99 Researchers, Premium Websites, +121 Datasets, Conferences, Frameworks, Tools             ",
+    "url": "https://github.com/Niraj-Lunavat/Artificial-Intelligence",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Niraj-Lunavat/Artificial-Intelligence"
+    },
+    "metadata": {
+      "stars": 1863,
+      "primary_language": null,
+      "last_updated": "2026-08-24T08:33:51Z"
+    }
+  },
+  {
+    "id": "b98504e6-7cb5-5cb1-a536-b2a72d20dbdd",
+    "entity_type": "repository",
+    "name": "Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+    "description": "A comprehensive list of Deep Learning / Artificial Intelligence and Machine Learning tutorials - rapidly expanding into areas of AI/Deep Learning / Machine Vision / NLP and industry specific areas such as Climate / Energy, Automotives, Retail, Pharma, Medicine, Healthcare, Policy, Ethics and more.",
+    "url": "https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/TarrySingh/Artificial-Intelligence-Deep-Learning-Machine-Learning-Tutorials"
+    },
+    "metadata": {
+      "stars": 4002,
+      "primary_language": "Python",
+      "last_updated": "2026-08-24T05:59:11Z"
+    }
+  },
+  {
+    "id": "e64fa2bd-cd28-59ec-84d0-d71216aab61e",
+    "entity_type": "repository",
+    "name": "opencog",
+    "description": "A framework for integrated Artificial Intelligence & Artificial General Intelligence (AGI)",
+    "url": "https://github.com/opencog/opencog",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/opencog/opencog"
+    },
+    "metadata": {
+      "stars": 2475,
+      "primary_language": "Scheme",
+      "last_updated": "2026-08-22T09:38:44Z"
+    }
+  },
+  {
+    "id": "d3c73320-ab1e-5310-9825-521d02ffc3ac",
+    "entity_type": "repository",
+    "name": "artificial-intelligence",
+    "description": "",
+    "url": "https://github.com/udacity/artificial-intelligence",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/udacity/artificial-intelligence"
+    },
+    "metadata": {
+      "stars": 477,
+      "primary_language": "Python",
+      "last_updated": "2026-08-22T09:39:10Z"
+    }
+  },
+  {
+    "id": "b1b25e3f-7bc0-5a60-8e20-29819cb745ad",
+    "entity_type": "repository",
+    "name": "stanford-cs-221-artificial-intelligence",
+    "description": "VIP cheatsheets for Stanford's CS 221 Artificial Intelligence",
+    "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/afshinea/stanford-cs-221-artificial-intelligence"
+    },
+    "metadata": {
+      "stars": 2981,
+      "primary_language": null,
+      "last_updated": "2026-08-25T12:16:50Z"
+    }
+  },
+  {
+    "id": "4b49b880-cee0-5122-a70e-b0da9fb29f1c",
+    "entity_type": "repository",
+    "name": "artificial-intelligence",
+    "description": "Awesome Artificial Intelligence Projects",
+    "url": "https://github.com/yanshengjia/artificial-intelligence",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/yanshengjia/artificial-intelligence"
+    },
+    "metadata": {
+      "stars": 524,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T08:40:17Z"
+    }
+  },
+  {
+    "id": "d3c665fc-5b33-5fe7-b03e-dfdf8d7002b0",
+    "entity_type": "repository",
+    "name": "artificial-intelligence-for-trading",
+    "description": "Content for Udacity's AI in Trading NanoDegree.",
+    "url": "https://github.com/udacity/artificial-intelligence-for-trading",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/udacity/artificial-intelligence-for-trading"
+    },
+    "metadata": {
+      "stars": 776,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-06T05:51:34Z"
+    }
+  },
+  {
+    "id": "059efc57-ab79-5624-9db0-ff5b4024db3a",
+    "entity_type": "repository",
+    "name": "DataScience_ArtificialIntelligence_Utils",
+    "description": "Examples of Data Science projects and Artificial Intelligence use-cases",
+    "url": "https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mdipietro09/DataScience_ArtificialIntelligence_Utils"
+    },
+    "metadata": {
+      "stars": 558,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-14T11:21:24Z"
+    }
+  },
+  {
+    "id": "11a93e73-6d4a-52a1-abcd-d6083896c2e3",
+    "entity_type": "repository",
+    "name": "Artificial-Intelligence-Terminology-Database",
+    "description": "A comprehensive mapping database of English to Chinese technical vocabulary in the artificial intelligence domain",
+    "url": "https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jiqizhixin/Artificial-Intelligence-Terminology-Database"
+    },
+    "metadata": {
+      "stars": 2032,
+      "primary_language": null,
+      "last_updated": "2026-08-25T07:44:23Z"
+    }
+  },
+  {
+    "id": "3d42cbbd-6247-5af3-abd7-2bd59ba06264",
+    "entity_type": "repository",
+    "name": "awesome-machine-learning",
+    "description": "A curated list of awesome Machine Learning frameworks, libraries and software.",
+    "url": "https://github.com/josephmisiti/awesome-machine-learning",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/josephmisiti/awesome-machine-learning"
+    },
+    "metadata": {
+      "stars": 74149,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T13:52:55Z"
+    }
+  },
+  {
+    "id": "5cee76bb-d3a8-5142-9d1b-0fbe866ea510",
+    "entity_type": "repository",
+    "name": "MachineLearning",
+    "description": "Basic Machine Learning and Deep Learning",
+    "url": "https://github.com/wepe/MachineLearning",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/wepe/MachineLearning"
+    },
+    "metadata": {
+      "stars": 5751,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T08:43:52Z"
+    }
+  },
+  {
+    "id": "c85c149c-ae19-52e5-bb49-133dfd78c4ff",
+    "entity_type": "repository",
+    "name": "MachineLearning_Python",
+    "description": "机器学习算法python实现",
+    "url": "https://github.com/lawlite19/MachineLearning_Python",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/lawlite19/MachineLearning_Python"
+    },
+    "metadata": {
+      "stars": 8584,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T09:18:13Z"
+    }
+  },
+  {
+    "id": "0083cf2c-b613-52e2-866b-4f30bc46c899",
+    "entity_type": "repository",
+    "name": "Machine-Learning",
+    "description": ":zap:机器学习实战（Python3）：kNN、决策树、贝叶斯、逻辑回归、SVM、线性回归、树回归",
+    "url": "https://github.com/Jack-Cherish/Machine-Learning",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Jack-Cherish/Machine-Learning"
+    },
+    "metadata": {
+      "stars": 10376,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T09:25:37Z"
+    }
+  },
+  {
+    "id": "8ee7db6b-d2e5-5f0c-bb40-1004023dea5b",
+    "entity_type": "repository",
+    "name": "machine-learning",
+    "description": "Content for Udacity's Machine Learning curriculum",
+    "url": "https://github.com/udacity/machine-learning",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/udacity/machine-learning"
+    },
+    "metadata": {
+      "stars": 4030,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-17T21:37:20Z"
+    }
+  },
+  {
+    "id": "db630d28-9d9b-51f0-98b8-a11d46082f60",
+    "entity_type": "repository",
+    "name": "MachineLearningNotebooks",
+    "description": "Python notebooks with ML and deep learning examples with Azure Machine Learning Python SDK | Microsoft",
+    "url": "https://github.com/Azure/MachineLearningNotebooks",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Azure/MachineLearningNotebooks"
+    },
+    "metadata": {
+      "stars": 4427,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-21T19:52:45Z"
+    }
+  },
+  {
+    "id": "814ea4f3-8db4-5c1c-addd-49e841ecfd26",
+    "entity_type": "repository",
+    "name": "homemade-machine-learning",
+    "description": "🤖 Python examples of popular machine learning algorithms with interactive Jupyter demos and math being explained",
+    "url": "https://github.com/trekhleb/homemade-machine-learning",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/trekhleb/homemade-machine-learning"
+    },
+    "metadata": {
+      "stars": 24778,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T14:34:10Z"
+    }
+  },
+  {
+    "id": "4d362112-44dd-5d34-839c-3578a1637049",
+    "entity_type": "repository",
+    "name": "machine_learning_examples",
+    "description": "A collection of machine learning examples and tutorials.",
+    "url": "https://github.com/lazyprogrammer/machine_learning_examples",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/lazyprogrammer/machine_learning_examples"
+    },
+    "metadata": {
+      "stars": 8915,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T07:44:52Z"
+    }
+  },
+  {
+    "id": "1ce985f4-62aa-5e2b-8569-e0d940f1facc",
+    "entity_type": "repository",
+    "name": "Machine-Learning-Tutorials",
+    "description": "machine learning and deep learning tutorials, articles and other resources ",
+    "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ujjwalkarn/Machine-Learning-Tutorials"
+    },
+    "metadata": {
+      "stars": 18141,
+      "primary_language": null,
+      "last_updated": "2026-08-25T14:05:55Z"
+    }
+  },
+  {
+    "id": "22f4d304-bf88-5471-98fb-da55532b63de",
+    "entity_type": "repository",
+    "name": "machine-learning-for-trading",
+    "description": "Code for Machine Learning for Trading, 3rd edition — from data sourcing to live execution.",
+    "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/stefan-jansen/machine-learning-for-trading"
+    },
+    "metadata": {
+      "stars": 20636,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T14:28:48Z"
+    }
+  },
+  {
+    "id": "1b0407f1-c0b0-5c2e-a453-0e811b582d46",
+    "entity_type": "repository",
+    "name": "generative-ai-for-beginners",
+    "description": "21 Lessons, Get Started Building with Generative AI ",
+    "url": "https://github.com/microsoft/generative-ai-for-beginners",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners"
+    },
+    "metadata": {
+      "stars": 118533,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T14:59:37Z"
+    }
+  },
+  {
+    "id": "de24ec8f-bebd-5ec0-830d-317a35726687",
+    "entity_type": "repository",
+    "name": "generative-ai",
+    "description": "Sample code and notebooks for Generative AI on Google Cloud, with Gemini Enterprise Agent Platform",
+    "url": "https://github.com/GoogleCloudPlatform/generative-ai",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/GoogleCloudPlatform/generative-ai"
+    },
+    "metadata": {
+      "stars": 17623,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T15:22:51Z"
+    }
+  },
+  {
+    "id": "cd3b0e88-5548-5334-931f-4879d134d929",
+    "entity_type": "repository",
+    "name": "Open-Generative-AI",
+    "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 500+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+    "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+    },
+    "metadata": {
+      "stars": 27093,
+      "primary_language": "JavaScript",
+      "last_updated": "2026-08-25T15:19:15Z"
+    }
+  },
+  {
+    "id": "73d173f9-9edc-5332-afe0-48874bd375bc",
+    "entity_type": "repository",
+    "name": "awesome-generative-ai-guide",
+    "description": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+    "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide"
+    },
+    "metadata": {
+      "stars": 28888,
+      "primary_language": "HTML",
+      "last_updated": "2026-08-25T14:31:07Z"
+    }
+  },
+  {
+    "id": "ab82a383-124a-5dd9-914d-e043fbb7ce14",
+    "entity_type": "repository",
+    "name": "generative-models",
+    "description": "Generative Models by Stability AI",
+    "url": "https://github.com/Stability-AI/generative-models",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Stability-AI/generative-models"
+    },
+    "metadata": {
+      "stars": 27269,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T08:20:47Z"
+    }
+  },
+  {
+    "id": "9cd8cf74-5aaa-5191-9bce-6879bcfc9d3c",
+    "entity_type": "repository",
+    "name": "GenerativeAIExamples",
+    "description": "Generative AI reference workflows optimized for accelerated infrastructure and microservice architecture.",
+    "url": "https://github.com/NVIDIA/GenerativeAIExamples",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/NVIDIA/GenerativeAIExamples"
+    },
+    "metadata": {
+      "stars": 4159,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T07:26:27Z"
+    }
+  },
+  {
+    "id": "be5fd542-a371-5593-bcd0-be056d32a6e5",
+    "entity_type": "repository",
+    "name": "awesome-generative-ai",
+    "description": "A curated list of modern Generative Artificial Intelligence projects and services",
+    "url": "https://github.com/steven2358/awesome-generative-ai",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/steven2358/awesome-generative-ai"
+    },
+    "metadata": {
+      "stars": 12533,
+      "primary_language": null,
+      "last_updated": "2026-08-25T14:57:53Z"
+    }
+  },
+  {
+    "id": "0ee316a9-71a4-5e60-9f01-4cf76e516c5a",
+    "entity_type": "repository",
+    "name": "ai-collection",
+    "description": "The Generative AI Landscape - A Collection of Awesome Generative AI Applications",
+    "url": "https://github.com/ai-collection/ai-collection",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ai-collection/ai-collection"
+    },
+    "metadata": {
+      "stars": 9128,
+      "primary_language": null,
+      "last_updated": "2026-08-25T14:06:54Z"
+    }
+  },
+  {
+    "id": "dfc320e8-17f1-571e-a91b-e9c300e5c850",
+    "entity_type": "repository",
+    "name": "Generative-AI-for-beginners-dotnet",
+    "description": "Five lessons, learn how to really apply AI to your .NET Applications",
+    "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/microsoft/Generative-AI-for-beginners-dotnet"
+    },
+    "metadata": {
+      "stars": 3019,
+      "primary_language": "C#",
+      "last_updated": "2026-08-25T12:02:12Z"
+    }
+  },
+  {
+    "id": "4adc4cd4-f7f6-5ed6-a929-c9421f8df5d8",
+    "entity_type": "repository",
+    "name": "awesome-generative-ai",
+    "description": "A curated list of Generative AI tools, works, models, and references",
+    "url": "https://github.com/filipecalegario/awesome-generative-ai",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/filipecalegario/awesome-generative-ai"
+    },
+    "metadata": {
+      "stars": 3527,
+      "primary_language": null,
+      "last_updated": "2026-08-24T16:39:20Z"
+    }
+  },
+  {
+    "id": "d04c171d-7e53-5b07-a3d4-4f9386625442",
+    "entity_type": "repository",
+    "name": "Hands-On-Large-Language-Models",
+    "description": "Official code repo for the O'Reilly Book - \"Hands-On Large Language Models\"",
+    "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/HandsOnLLM/Hands-On-Large-Language-Models"
+    },
+    "metadata": {
+      "stars": 28597,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T14:42:11Z"
+    }
+  },
+  {
+    "id": "c2c692fc-83e6-5b4f-ba14-77431657eaf4",
+    "entity_type": "repository",
+    "name": "Awesome-Multimodal-Large-Language-Models",
+    "description": ":sparkles::sparkles:Latest Advances on Multimodal Large Language Models",
+    "url": "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/BradyFU/Awesome-Multimodal-Large-Language-Models"
+    },
+    "metadata": {
+      "stars": 17989,
+      "primary_language": null,
+      "last_updated": "2026-08-25T13:17:32Z"
+    }
+  },
+  {
+    "id": "8b88215e-31b4-5af5-90f6-2e778f3cc207",
+    "entity_type": "repository",
+    "name": "large-language-models",
+    "description": "Notebooks for Large Language Models (LLMs) Specialization",
+    "url": "https://github.com/databricks-academy/large-language-models",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/databricks-academy/large-language-models"
+    },
+    "metadata": {
+      "stars": 828,
+      "primary_language": "Python",
+      "last_updated": "2026-08-20T21:15:05Z"
+    }
+  },
+  {
+    "id": "f0b89eb8-15bd-5929-961e-66aa988c25de",
+    "entity_type": "repository",
+    "name": "Build-A-Large-Language-Model-CN",
+    "description": "《Build a Large Language Model (From Scratch)》是一本深入探讨大语言模型原理与实现的电子书，适合希望深入了解 GPT 等大模型架构、训练过程及应用开发的学习者。为了让更多中文读者能够接触到这本极具价值的教材，我决定将其翻译成中文，并通过 GitHub 进行开源共享。",
+    "url": "https://github.com/skindhu/Build-A-Large-Language-Model-CN",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/skindhu/Build-A-Large-Language-Model-CN"
+    },
+    "metadata": {
+      "stars": 3979,
+      "primary_language": "HTML",
+      "last_updated": "2026-08-25T13:35:35Z"
+    }
+  },
+  {
+    "id": "97ea4ff2-67dd-55dd-90bf-43f1a988ef9b",
+    "entity_type": "repository",
+    "name": "PaddleFormers",
+    "description": "PaddleFormers is an easy-to-use library of pre-trained large language model zoo based on PaddlePaddle.",
+    "url": "https://github.com/PaddlePaddle/PaddleFormers",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/PaddlePaddle/PaddleFormers"
+    },
+    "metadata": {
+      "stars": 12987,
+      "primary_language": "Python",
+      "last_updated": "2026-08-24T11:03:59Z"
+    }
+  },
+  {
+    "id": "b9da18bd-6930-5058-bc26-ee9022e4523a",
+    "entity_type": "repository",
+    "name": "stanford-cme-295-transformers-large-language-models",
+    "description": "VIP cheatsheet for Stanford's CME 295 Transformers and Large Language Models",
+    "url": "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/afshinea/stanford-cme-295-transformers-large-language-models"
+    },
+    "metadata": {
+      "stars": 4654,
+      "primary_language": null,
+      "last_updated": "2026-08-24T21:21:01Z"
+    }
+  },
+  {
+    "id": "f14a8df6-8002-5ebc-95a7-d8051cb9c6e1",
+    "entity_type": "repository",
+    "name": "Large-Language-Model-Notebooks-Course",
+    "description": "Practical course about Large Language Models. ",
+    "url": "https://github.com/peremartra/Large-Language-Model-Notebooks-Course",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/peremartra/Large-Language-Model-Notebooks-Course"
+    },
+    "metadata": {
+      "stars": 1821,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-14T01:43:41Z"
+    }
+  },
+  {
+    "id": "9ca50b36-d5a3-5877-8ddc-d74d4fe413ab",
+    "entity_type": "repository",
+    "name": "LargeLanguageModelsProjects",
+    "description": "Large Language Model Projects",
+    "url": "https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/MuhammadMoinFaisal/LargeLanguageModelsProjects"
+    },
+    "metadata": {
+      "stars": 389,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-07-17T02:52:50Z"
+    }
+  },
+  {
+    "id": "0cb4bd17-51fb-5575-a8b3-5c32f4b03e5c",
+    "entity_type": "repository",
+    "name": "Hands-On-Large-Language-Models-CN",
+    "description": "中文翻译的 Hands-On-Large-Language-Models (hands-on-llms)，动手学习大模型",
+    "url": "https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN"
+    },
+    "metadata": {
+      "stars": 2832,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T08:46:02Z"
+    }
+  },
+  {
+    "id": "406d4ad7-79ee-5361-824a-75eb9f14cec8",
+    "entity_type": "repository",
+    "name": "guidance",
+    "description": "A guidance language for controlling large language models.",
+    "url": "https://github.com/guidance-ai/guidance",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/guidance-ai/guidance"
+    },
+    "metadata": {
+      "stars": 21715,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T01:42:03Z"
+    }
+  },
+  {
+    "id": "6fc6d050-a2cd-516d-a255-26626082cf3d",
+    "entity_type": "repository",
+    "name": "llm",
+    "description": "Access large language models from the command-line",
+    "url": "https://github.com/simonw/llm",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/simonw/llm"
+    },
+    "metadata": {
+      "stars": 12405,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T14:24:03Z"
+    }
+  },
+  {
+    "id": "3dab2d44-f471-51ca-bfb4-5c23df11a3c6",
+    "entity_type": "repository",
+    "name": "llm",
+    "description": "[Unmaintained, see README] An ecosystem of Rust libraries for working with large language models",
+    "url": "https://github.com/rustformers/llm",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/rustformers/llm"
+    },
+    "metadata": {
+      "stars": 6152,
+      "primary_language": "Rust",
+      "last_updated": "2026-08-24T02:05:57Z"
+    }
+  },
+  {
+    "id": "f912fbe8-a773-569a-9691-19eccf5371a8",
+    "entity_type": "repository",
+    "name": "awesome-llm-apps",
+    "description": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+    "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps"
+    },
+    "metadata": {
+      "stars": 134074,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T15:22:29Z"
+    }
+  },
+  {
+    "id": "dd625306-fd50-522f-9b0e-84acb79db0e1",
+    "entity_type": "repository",
+    "name": "LLMs-from-scratch",
+    "description": "Implement a ChatGPT-like LLM in PyTorch from scratch, step by step",
+    "url": "https://github.com/rasbt/LLMs-from-scratch",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/rasbt/LLMs-from-scratch"
+    },
+    "metadata": {
+      "stars": 103750,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T15:05:59Z"
+    }
+  },
+  {
+    "id": "4c6aaa74-3500-5a93-a5fd-4cba09231798",
+    "entity_type": "repository",
+    "name": "LLM101n",
+    "description": "LLM101n: Let's build a Storyteller",
+    "url": "https://github.com/karpathy/LLM101n",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/karpathy/LLM101n"
+    },
+    "metadata": {
+      "stars": 37503,
+      "primary_language": null,
+      "last_updated": "2026-08-25T04:37:43Z"
+    }
+  },
+  {
+    "id": "cdeaa383-7c95-5b57-a74d-aa7be567d4be",
+    "entity_type": "repository",
+    "name": "llm-course",
+    "description": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+    "url": "https://github.com/mlabonne/llm-course",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mlabonne/llm-course"
+    },
+    "metadata": {
+      "stars": 81978,
+      "primary_language": null,
+      "last_updated": "2026-08-25T15:14:15Z"
+    }
+  },
+  {
+    "id": "4b6aedee-5fbf-529a-a56f-463245fc7a9a",
+    "entity_type": "repository",
+    "name": "anything-llm",
+    "description": "Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience ",
+    "url": "https://github.com/Mintplex-Labs/anything-llm",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Mintplex-Labs/anything-llm"
+    },
+    "metadata": {
+      "stars": 65182,
+      "primary_language": "JavaScript",
+      "last_updated": "2026-08-25T14:45:51Z"
+    }
+  },
+  {
+    "id": "5ea68405-a8a0-5122-868e-a1d6a4b6432c",
+    "entity_type": "repository",
+    "name": "dive-into-llms",
+    "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
+    "url": "https://github.com/Lordog/dive-into-llms",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Lordog/dive-into-llms"
+    },
+    "metadata": {
+      "stars": 50189,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T15:10:40Z"
+    }
+  },
+  {
+    "id": "6ed92e21-6499-50d5-b6f7-c9ef5c7ffbad",
+    "entity_type": "repository",
+    "name": "llmfit",
+    "description": "Hundreds of models & providers. One command to find what runs on your hardware.",
+    "url": "https://github.com/AlexsJones/llmfit",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/AlexsJones/llmfit"
+    },
+    "metadata": {
+      "stars": 33998,
+      "primary_language": "Rust",
+      "last_updated": "2026-08-25T15:14:15Z"
+    }
+  },
+  {
+    "id": "e612bb34-72ac-58e1-929f-21a869e09a41",
+    "entity_type": "repository",
+    "name": "llm-council",
+    "description": "LLM Council works together to answer your hardest questions",
+    "url": "https://github.com/karpathy/llm-council",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/karpathy/llm-council"
+    },
+    "metadata": {
+      "stars": 24329,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T14:33:26Z"
+    }
+  },
+  {
+    "id": "3dcc1dc7-6ec8-5ca5-9477-fcea48dc2bfe",
+    "entity_type": "repository",
+    "name": "agents",
+    "description": "Repo for the Complete Agentic AI Engineering Course",
+    "url": "https://github.com/ed-donner/agents",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ed-donner/agents"
+    },
+    "metadata": {
+      "stars": 6034,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T13:53:52Z"
+    }
+  },
+  {
+    "id": "41f9c9ee-9ce1-5303-9932-72f4c64d380a",
+    "entity_type": "repository",
+    "name": "ai-agents-for-beginners",
+    "description": "18 Lessons to Get Started Building AI Agents",
+    "url": "https://github.com/microsoft/ai-agents-for-beginners",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners"
+    },
+    "metadata": {
+      "stars": 73198,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T15:16:43Z"
+    }
+  },
+  {
+    "id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "entity_type": "repository",
+    "name": "ai",
+    "description": "The AI Toolkit for TypeScript. From the creators of Next.js, the AI SDK is a free open-source library for building AI-powered applications and agents ",
+    "url": "https://github.com/vercel/ai",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/vercel/ai"
+    },
+    "metadata": {
+      "stars": 26405,
+      "primary_language": "TypeScript",
+      "last_updated": "2026-08-25T14:32:10Z"
+    }
+  },
+  {
+    "id": "fce80a88-57c6-583f-b715-5703279cb5cf",
+    "entity_type": "repository",
+    "name": "agents",
+    "description": "A framework for building realtime voice AI agents 🤖🎙️📹 ",
+    "url": "https://github.com/livekit/agents",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/livekit/agents"
+    },
+    "metadata": {
+      "stars": 13163,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T14:29:00Z"
+    }
+  },
+  {
+    "id": "c6e41811-3152-5ad5-abcf-71365244d143",
+    "entity_type": "repository",
+    "name": "Flowise",
+    "description": "Build AI Agents, Visually",
+    "url": "https://github.com/FlowiseAI/Flowise",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/FlowiseAI/Flowise"
+    },
+    "metadata": {
+      "stars": 55389,
+      "primary_language": "TypeScript",
+      "last_updated": "2026-08-25T14:18:36Z"
+    }
+  },
+  {
+    "id": "beb569eb-0066-51ef-aa33-cb07e436d9ac",
+    "entity_type": "repository",
+    "name": "500-AI-Agents-Projects",
+    "description": "The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more.",
+    "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ashishpatel26/500-AI-Agents-Projects"
+    },
+    "metadata": {
+      "stars": 36953,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T15:03:54Z"
+    }
+  },
+  {
+    "id": "e9d82903-d11a-53be-a16c-2f5018ce809b",
+    "entity_type": "repository",
+    "name": "GenAI_Agents",
+    "description": "50+ tutorials and implementations for Generative AI Agent techniques, from basic conversational bots to complex multi-agent systems.",
+    "url": "https://github.com/NirDiamant/GenAI_Agents",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/NirDiamant/GenAI_Agents"
+    },
+    "metadata": {
+      "stars": 23979,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T14:34:10Z"
+    }
+  },
+  {
+    "id": "9fb09b73-1f31-5d8f-adda-fe99540893c2",
+    "entity_type": "repository",
+    "name": "awesome-ai-agents",
+    "description": "A list of AI autonomous agents",
+    "url": "https://github.com/e2b-dev/awesome-ai-agents",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/e2b-dev/awesome-ai-agents"
+    },
+    "metadata": {
+      "stars": 29667,
+      "primary_language": null,
+      "last_updated": "2026-08-25T14:46:44Z"
+    }
+  },
+  {
+    "id": "f2036c6a-27fb-51d9-a6f1-c7a444a4ff80",
+    "entity_type": "repository",
+    "name": "activepieces",
+    "description": "AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents",
+    "url": "https://github.com/activepieces/activepieces",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/activepieces/activepieces"
+    },
+    "metadata": {
+      "stars": 24034,
+      "primary_language": "TypeScript",
+      "last_updated": "2026-08-25T15:24:47Z"
+    }
+  },
+  {
+    "id": "2d0c338f-3689-5ad2-a3d3-caca77bff893",
+    "entity_type": "repository",
+    "name": "agents",
+    "description": "Build and deploy AI Agents on Cloudflare ",
+    "url": "https://github.com/cloudflare/agents",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/cloudflare/agents"
+    },
+    "metadata": {
+      "stars": 5486,
+      "primary_language": "TypeScript",
+      "last_updated": "2026-08-25T14:59:26Z"
+    }
+  },
+  {
+    "id": "6354f720-454e-5803-b916-64150a7694bb",
+    "entity_type": "repository",
+    "name": "vision",
+    "description": "Datasets, Transforms and Models specific to Computer Vision",
+    "url": "https://github.com/pytorch/vision",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/pytorch/vision"
+    },
+    "metadata": {
+      "stars": 17882,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T14:26:09Z"
+    }
+  },
+  {
+    "id": "60f46af6-08eb-5e2c-b577-c1450781a1ed",
+    "entity_type": "repository",
+    "name": "opencv",
+    "description": "Open Source Computer Vision Library",
+    "url": "https://github.com/opencv/opencv",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/opencv/opencv"
+    },
+    "metadata": {
+      "stars": 90594,
+      "primary_language": "C++",
+      "last_updated": "2026-08-25T14:33:38Z"
+    }
+  },
+  {
+    "id": "f0dd99e5-f214-5fe2-acac-bcc45882822e",
+    "entity_type": "repository",
+    "name": "awesome-computer-vision",
+    "description": "A curated list of awesome computer vision resources",
+    "url": "https://github.com/jbhuang0604/awesome-computer-vision",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jbhuang0604/awesome-computer-vision"
+    },
+    "metadata": {
+      "stars": 23516,
+      "primary_language": null,
+      "last_updated": "2026-08-25T11:32:21Z"
+    }
+  },
+  {
+    "id": "f30dcd00-9e11-52a6-b222-2cf86e2f7f42",
+    "entity_type": "repository",
+    "name": "ComputerVision",
+    "description": "",
+    "url": "https://github.com/niconielsen32/ComputerVision",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/niconielsen32/ComputerVision"
+    },
+    "metadata": {
+      "stars": 1144,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-24T21:39:34Z"
+    }
+  },
+  {
+    "id": "446376fa-910d-5550-8875-9095c5f27d52",
+    "entity_type": "repository",
+    "name": "daily-paper-computer-vision",
+    "description": "记录每天整理的计算机视觉/深度学习/机器学习相关方向的论文",
+    "url": "https://github.com/amusi/daily-paper-computer-vision",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/amusi/daily-paper-computer-vision"
+    },
+    "metadata": {
+      "stars": 6779,
+      "primary_language": null,
+      "last_updated": "2026-08-24T08:24:34Z"
+    }
+  },
+  {
+    "id": "5e05a4f8-6e04-5a41-9875-9c2029e11f6d",
+    "entity_type": "repository",
+    "name": "mmcv",
+    "description": "OpenMMLab Computer Vision Foundation",
+    "url": "https://github.com/open-mmlab/mmcv",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/open-mmlab/mmcv"
+    },
+    "metadata": {
+      "stars": 6470,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T08:25:36Z"
+    }
+  },
+  {
+    "id": "dfb24641-5775-508a-a966-69b606452b4e",
+    "entity_type": "repository",
+    "name": "ccv",
+    "description": "C-based/Cached/Core Computer Vision Library, A Modern Computer Vision Library",
+    "url": "https://github.com/liuliu/ccv",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/liuliu/ccv"
+    },
+    "metadata": {
+      "stars": 7242,
+      "primary_language": "C++",
+      "last_updated": "2026-08-25T08:17:19Z"
+    }
+  },
+  {
+    "id": "27776686-cc2e-5e24-9081-222f7eb51d86",
+    "entity_type": "repository",
+    "name": "computervision-recipes",
+    "description": "Best Practices, code samples, and documentation for Computer Vision.",
+    "url": "https://github.com/microsoft/computervision-recipes",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/microsoft/computervision-recipes"
+    },
+    "metadata": {
+      "stars": 9879,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-23T02:47:55Z"
+    }
+  },
+  {
+    "id": "534ea312-8f55-5d11-8526-cea860d667b4",
+    "entity_type": "repository",
+    "name": "supervision",
+    "description": "We write your reusable computer vision tools. 💜",
+    "url": "https://github.com/roboflow/supervision",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/roboflow/supervision"
+    },
+    "metadata": {
+      "stars": 49725,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T14:19:42Z"
+    }
+  },
+  {
+    "id": "9f7328d3-ff16-594c-b44a-b6bd2261bc41",
+    "entity_type": "repository",
+    "name": "500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "description": "500 AI Machine learning Deep learning Computer vision NLP Projects with code",
+    "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code"
+    },
+    "metadata": {
+      "stars": 36531,
+      "primary_language": null,
+      "last_updated": "2026-08-25T15:04:10Z"
+    }
+  },
+  {
+    "id": "8a3f47b8-e8f9-59ab-83e9-ace0a00d4ea7",
+    "entity_type": "repository",
+    "name": "natural-language-processing",
+    "description": "Resources for \"Natural Language Processing\" Coursera course.",
+    "url": "https://github.com/hse-aml/natural-language-processing",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/hse-aml/natural-language-processing"
+    },
+    "metadata": {
+      "stars": 1189,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-07-09T03:53:14Z"
+    }
+  },
+  {
+    "id": "832171b9-c6f0-54d0-86a3-e50b7532a33d",
+    "entity_type": "repository",
+    "name": "Natural-Language-Processing-Specialization",
+    "description": "This repo contains my coursework, assignments, and Slides for Natural Language Processing Specialization by deeplearning.ai on Coursera",
+    "url": "https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/amanjeetsahu/Natural-Language-Processing-Specialization"
+    },
+    "metadata": {
+      "stars": 860,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-12T06:50:09Z"
+    }
+  },
+  {
+    "id": "c7224913-7fa1-50aa-9ec3-a0cc1c469ba9",
+    "entity_type": "repository",
+    "name": "nlp_course",
+    "description": "YSDA course in Natural Language Processing",
+    "url": "https://github.com/yandexdataschool/nlp_course",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/yandexdataschool/nlp_course"
+    },
+    "metadata": {
+      "stars": 10655,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-24T18:45:30Z"
+    }
+  },
+  {
+    "id": "576da549-99cc-5a88-b596-f9aabd324546",
+    "entity_type": "repository",
+    "name": "compromise",
+    "description": "modest natural-language processing",
+    "url": "https://github.com/spencermountain/compromise",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/spencermountain/compromise"
+    },
+    "metadata": {
+      "stars": 12150,
+      "primary_language": "JavaScript",
+      "last_updated": "2026-08-25T13:02:21Z"
+    }
+  },
+  {
+    "id": "fcded911-f0be-5a2c-8590-d4a12a9b03cb",
+    "entity_type": "repository",
+    "name": "spaCy",
+    "description": "💫 Industrial-strength Natural Language Processing (NLP) in Python",
+    "url": "https://github.com/explosion/spaCy",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/explosion/spaCy"
+    },
+    "metadata": {
+      "stars": 33845,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T14:07:12Z"
+    }
+  },
+  {
+    "id": "add0f0c8-80fa-5641-bbf7-06a4cc01985b",
+    "entity_type": "repository",
+    "name": "nlp-tutorial",
+    "description": "Natural Language Processing Tutorial for Deep Learning Researchers",
+    "url": "https://github.com/graykode/nlp-tutorial",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/graykode/nlp-tutorial"
+    },
+    "metadata": {
+      "stars": 14925,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-08-25T11:49:47Z"
+    }
+  },
+  {
+    "id": "f70e402a-424e-5457-a8bc-ad7de1c45b90",
+    "entity_type": "repository",
+    "name": "Natural-Language-Processing",
+    "description": "",
+    "url": "https://github.com/JustFollowUs/Natural-Language-Processing",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/JustFollowUs/Natural-Language-Processing"
+    },
+    "metadata": {
+      "stars": 831,
+      "primary_language": null,
+      "last_updated": "2026-07-26T16:30:39Z"
+    }
+  },
+  {
+    "id": "507b7122-56c9-5047-a7b4-0ce0b67c9957",
+    "entity_type": "repository",
+    "name": "natural-language-processing",
+    "description": "Programming Assignments and Lectures for Stanford's CS 224: Natural Language Processing with Deep Learning",
+    "url": "https://github.com/khanhnamle1994/natural-language-processing",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/khanhnamle1994/natural-language-processing"
+    },
+    "metadata": {
+      "stars": 483,
+      "primary_language": "Python",
+      "last_updated": "2026-07-21T00:02:03Z"
+    }
+  },
+  {
+    "id": "c60e8e04-fa52-57c7-9c49-dc0b1a5ffbcf",
+    "entity_type": "repository",
+    "name": "nlp_tasks",
+    "description": "Natural Language Processing Tasks and References",
+    "url": "https://github.com/Kyubyong/nlp_tasks",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/Kyubyong/nlp_tasks"
+    },
+    "metadata": {
+      "stars": 3009,
+      "primary_language": null,
+      "last_updated": "2026-08-19T23:02:16Z"
+    }
+  },
+  {
+    "id": "ca0b700c-6fc4-5dc2-ac0c-45b41832ae8c",
+    "entity_type": "repository",
+    "name": "Transformers-for-Natural-Language-Processing",
+    "description": "Transformers for Natural Language Processing, published by Packt",
+    "url": "https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/PacktPublishing/Transformers-for-Natural-Language-Processing"
+    },
+    "metadata": {
+      "stars": 591,
+      "primary_language": "Jupyter Notebook",
+      "last_updated": "2026-07-31T07:03:26Z"
+    }
+  },
+  {
+    "id": "868928b5-3112-5b0d-9d45-a1064afb7098",
+    "entity_type": "repository",
+    "name": "system-prompts-and-models-of-ai-tools",
+    "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia & v0. (And other Open Sourced) System Prompts, Internal Tools & AI Models",
+    "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools"
+    },
+    "metadata": {
+      "stars": 143089,
+      "primary_language": null,
+      "last_updated": "2026-08-25T15:21:55Z"
+    }
+  },
+  {
+    "id": "20fa02eb-1c08-599d-8bcf-75efa7024c83",
+    "entity_type": "repository",
+    "name": "awesome-ai-tools",
+    "description": "A curated list of Artificial Intelligence Top Tools",
+    "url": "https://github.com/mahseema/awesome-ai-tools",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/mahseema/awesome-ai-tools"
+    },
+    "metadata": {
+      "stars": 6040,
+      "primary_language": null,
+      "last_updated": "2026-08-25T14:07:02Z"
+    }
+  },
+  {
+    "id": "ca9d2447-37d1-57fa-8d2e-e3fb491e55e9",
+    "entity_type": "repository",
+    "name": "aircrack-ng",
+    "description": "WiFi security auditing tools suite",
+    "url": "https://github.com/aircrack-ng/aircrack-ng",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/aircrack-ng/aircrack-ng"
+    },
+    "metadata": {
+      "stars": 7536,
+      "primary_language": "C",
+      "last_updated": "2026-08-25T14:40:22Z"
+    }
+  },
+  {
+    "id": "770e3035-a854-5090-897d-7f45a40fd14a",
+    "entity_type": "repository",
+    "name": "AI-research-tools",
+    "description": ":hammer:AI 方向好用的科研工具",
+    "url": "https://github.com/bighuang624/AI-research-tools",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/bighuang624/AI-research-tools"
+    },
+    "metadata": {
+      "stars": 3426,
+      "primary_language": null,
+      "last_updated": "2026-08-25T07:31:50Z"
+    }
+  },
+  {
+    "id": "632ee4cf-9d40-549d-be9a-a5583d44c2b9",
+    "entity_type": "repository",
+    "name": "ai",
+    "description": "🤖 Type-safe, provider-agnostic TypeScript AI SDK for streaming chat, tool calling, agents, and multimodal apps across OpenAI, Anthropic, Gemini, React, Vue, Svelte, and Solid.",
+    "url": "https://github.com/TanStack/ai",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/TanStack/ai"
+    },
+    "metadata": {
+      "stars": 3024,
+      "primary_language": "TypeScript",
+      "last_updated": "2026-08-25T15:21:32Z"
+    }
+  },
+  {
+    "id": "74ea0142-9216-58b0-8df0-3314283ca738",
+    "entity_type": "repository",
+    "name": "cockpit-tools",
+    "description": " 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy, with multi-account switching, quota monitoring, wake-up automation, and multi-insta",
+    "url": "https://github.com/jlcodes99/cockpit-tools",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/jlcodes99/cockpit-tools"
+    },
+    "metadata": {
+      "stars": 16495,
+      "primary_language": "Rust",
+      "last_updated": "2026-08-25T15:25:18Z"
+    }
+  },
+  {
+    "id": "c70a4f2e-8509-56db-9422-d49ea7763132",
+    "entity_type": "repository",
+    "name": "crewAI-tools",
+    "description": "Extend the capabilities of your CrewAI agents with Tools",
+    "url": "https://github.com/crewAIInc/crewAI-tools",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/crewAIInc/crewAI-tools"
+    },
+    "metadata": {
+      "stars": 1467,
+      "primary_language": "Python",
+      "last_updated": "2026-08-24T06:45:09Z"
+    }
+  },
+  {
+    "id": "d14e18a9-a25a-58bd-8fde-d9f58517a204",
+    "entity_type": "repository",
+    "name": "private-gpt",
+    "description": "Complete API layer for private AI applications on local models: RAG, skills, tools, MCP, text-to-sql, and more. Works with any OpenAI-compatible inference server.",
+    "url": "https://github.com/zylon-ai/private-gpt",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/zylon-ai/private-gpt"
+    },
+    "metadata": {
+      "stars": 57466,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T14:54:14Z"
+    }
+  },
+  {
+    "id": "afcfdeac-1e90-512a-ab1a-4510cadb2799",
+    "entity_type": "repository",
+    "name": "awesome-ai-coding-tools",
+    "description": "A curated list of AI-powered coding tools",
+    "url": "https://github.com/ai-for-developers/awesome-ai-coding-tools",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ai-for-developers/awesome-ai-coding-tools"
+    },
+    "metadata": {
+      "stars": 2033,
+      "primary_language": null,
+      "last_updated": "2026-08-25T12:36:14Z"
+    }
+  },
+  {
+    "id": "df946aa6-251a-5417-8a5e-41a6c89f7a4e",
+    "entity_type": "repository",
+    "name": "Top-AI-Tools",
+    "description": "Curated list of AI Tools",
+    "url": "https://github.com/ghimiresunil/Top-AI-Tools",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/ghimiresunil/Top-AI-Tools"
+    },
+    "metadata": {
+      "stars": 938,
+      "primary_language": null,
+      "last_updated": "2026-08-24T08:18:16Z"
+    }
+  },
+  {
+    "id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "entity_type": "repository",
+    "name": "mcp",
+    "description": "Open source MCP Servers for AWS",
+    "url": "https://github.com/awslabs/mcp",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/awslabs/mcp"
+    },
+    "metadata": {
+      "stars": 9636,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T10:08:57Z"
+    }
+  },
+  {
+    "id": "c1caa728-9e0b-521e-bd2f-04afeb00589b",
+    "entity_type": "repository",
+    "name": "awesome-mcp-servers",
+    "description": "A collection of MCP servers.",
+    "url": "https://github.com/punkpeye/awesome-mcp-servers",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers"
+    },
+    "metadata": {
+      "stars": 92798,
+      "primary_language": null,
+      "last_updated": "2026-08-25T15:22:17Z"
+    }
+  },
+  {
+    "id": "480a2206-1401-5747-9ed4-b590f60a75b1",
+    "entity_type": "repository",
+    "name": "github-mcp-server",
+    "description": "GitHub's official MCP Server",
+    "url": "https://github.com/github/github-mcp-server",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/github/github-mcp-server"
+    },
+    "metadata": {
+      "stars": 32494,
+      "primary_language": "Go",
+      "last_updated": "2026-08-25T15:12:46Z"
+    }
+  },
+  {
+    "id": "1ccb2319-3829-56b9-94d8-c888d656f910",
+    "entity_type": "repository",
+    "name": "playwright-mcp",
+    "description": "Playwright MCP server",
+    "url": "https://github.com/microsoft/playwright-mcp",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/microsoft/playwright-mcp"
+    },
+    "metadata": {
+      "stars": 36448,
+      "primary_language": "TypeScript",
+      "last_updated": "2026-08-25T15:12:08Z"
+    }
+  },
+  {
+    "id": "c2efdfb5-9ef6-59a6-b605-c54422dc8abc",
+    "entity_type": "repository",
+    "name": "mcp",
+    "description": "Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser",
+    "url": "https://github.com/BrowserMCP/mcp",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/BrowserMCP/mcp"
+    },
+    "metadata": {
+      "stars": 7014,
+      "primary_language": "TypeScript",
+      "last_updated": "2026-08-25T09:26:54Z"
+    }
+  },
+  {
+    "id": "bdb635a2-8443-514c-9e43-ce32fcbe3d7e",
+    "entity_type": "repository",
+    "name": "mcp",
+    "description": "Catalog of official Microsoft MCP (Model Context Protocol) server implementations for AI-powered data access and tool integration",
+    "url": "https://github.com/microsoft/mcp",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/microsoft/mcp"
+    },
+    "metadata": {
+      "stars": 3600,
+      "primary_language": "C#",
+      "last_updated": "2026-08-25T09:26:46Z"
+    }
+  },
+  {
+    "id": "3f527a62-20e5-571f-b119-d2654e66cda0",
+    "entity_type": "repository",
+    "name": "awesome-mcp-servers",
+    "description": "Awesome MCP Servers - A curated list of Model Context Protocol servers",
+    "url": "https://github.com/appcypher/awesome-mcp-servers",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/appcypher/awesome-mcp-servers"
+    },
+    "metadata": {
+      "stars": 5756,
+      "primary_language": null,
+      "last_updated": "2026-08-25T14:07:23Z"
+    }
+  },
+  {
+    "id": "1cd1bd1b-6776-51a5-8328-86f05d2019ab",
+    "entity_type": "repository",
+    "name": "whatsapp-mcp",
+    "description": "WhatsApp MCP server",
+    "url": "https://github.com/lharries/whatsapp-mcp",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/lharries/whatsapp-mcp"
+    },
+    "metadata": {
+      "stars": 6191,
+      "primary_language": "Go",
+      "last_updated": "2026-08-25T09:57:10Z"
+    }
+  },
+  {
+    "id": "3d23f8f2-c060-5069-b220-6cd125d365c1",
+    "entity_type": "repository",
+    "name": "awesome-mcp-servers",
+    "description": "A curated list of Model Context Protocol (MCP) servers",
+    "url": "https://github.com/wong2/awesome-mcp-servers",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/wong2/awesome-mcp-servers"
+    },
+    "metadata": {
+      "stars": 4279,
+      "primary_language": null,
+      "last_updated": "2026-08-25T14:45:21Z"
+    }
+  },
+  {
+    "id": "ef3c91fd-4989-5a13-8d49-c844cd504b5a",
+    "entity_type": "repository",
+    "name": "pal-mcp-server",
+    "description": "The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one.",
+    "url": "https://github.com/BeehiveInnovations/pal-mcp-server",
+    "categories": [
+      "AI",
+      "Open Source",
+      "Repository"
+    ],
+    "source": {
+      "name": "GitHub",
+      "url": "https://github.com/BeehiveInnovations/pal-mcp-server"
+    },
+    "metadata": {
+      "stars": 11727,
+      "primary_language": "Python",
+      "last_updated": "2026-08-25T05:22:45Z"
+    }
+  }
+]

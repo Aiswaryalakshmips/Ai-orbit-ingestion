@@ -1,0 +1,1402 @@
+[
+  {
+    "source_id": "731fe467-6075-5392-b2aa-efe972399727",
+    "source_name": "OpenAI",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "36ae1297-1c5f-5573-b48f-e5e2abe1372d",
+    "target_name": "aichat",
+    "target_type": "tool",
+    "evidence": "company name referenced in tool metadata/text"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "6a1526f9-765a-5a0e-901d-f5eb34f942c8",
+    "target_name": "masterful/gligen-1-4-generation-text-box",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "f8784675-6114-5923-9ab5-101860d69bb0",
+    "target_name": "randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "b32865f8-6d93-5bd3-bd97-914171a04302",
+    "target_name": "RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "6c785a5c-0955-5abe-a0b5-bece980b4728",
+    "target_name": "RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "e7c15308-613b-5150-a28e-cf3d07f24e49",
+    "target_name": "RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "8002e435-aa15-5aab-a57c-3f1918564a01",
+    "target_name": "RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "f5de33ee-40aa-5d25-8d25-5b7d6858613c",
+    "target_name": "RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "8d9d70dc-baf2-58ef-8aa7-fcd534c075ad",
+    "target_name": "RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "4a276d61-6e19-544e-8e6b-ce7923b0b119",
+    "target_name": "RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "44ddcbec-a17f-56eb-8a42-90713519c454",
+    "target_name": "RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "0d61b7fc-e234-5586-9f06-d117f5b0e878",
+    "target_name": "Akalabeth12/Text-to-Image",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "f0f0b729-f632-543b-ac22-b076de268481",
+    "target_name": "ZB-Tech/Text-to-Image",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "c60647bb-2604-527a-8981-405f6fe62ccb",
+    "target_name": "cloudqi/cqi_text_to_image_pt_v0",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "0e122c59-3d98-537e-8eb9-5c55f4935516",
+    "target_name": "sairajg/Text_To_Image",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "774e2b98-2f32-5cd1-a126-41880e0e309c",
+    "target_name": "Keynote-Technology/TIGMaN-text-to-image",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "e0e47de5-a580-559f-8c30-cabb31020a8b",
+    "target_name": "ford442/blip2-image-to-text-bf16",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "67b1cfab-ee1a-55f6-8e68-e4a07adf79d3",
+    "target_name": "Pramodmunje/Text-to-Image",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "f6144d89-ad84-5370-9992-77208ee86c93",
+    "target_name": "terra-cognita-ai/ResAI_Image-to-text_Champ",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "f4499c3f-23f7-5f32-8e28-2ee9f0be08f1",
+    "target_name": "blackmariaaa/text-to-image.ai",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "3bdc2573-6f7e-5b7f-950a-d6aa48be4519",
+    "target_name": "durgaa22/image-to-text-model",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "e3fb6dfb-b85e-544c-b74b-e41d8d58a48f",
+    "target_name": "Anwarkh1/Skin_Cancer-Image_Classification",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "d019ea31-aae5-5669-868e-c6985726fbf3",
+    "target_name": "wesleyacheng/dog-breeds-multiclass-image-classification-with-vit",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "c4f14f0a-ea83-531b-b45c-4136d2298888",
+    "target_name": "prithivMLmods/Weather-Image-Classification",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "38a43e06-9fc4-540b-9d55-382667eb0720",
+    "target_name": "0xgr3y/Arch-Building-Image-Classification",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "502e379c-bc11-5714-99bf-83a1e6882b5d",
+    "target_name": "ideepankarsharma2003/AI_ImageClassification_MidjourneyV6_SDXL",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "44a8bea6-4ea1-57d8-9417-27311a033847",
+    "target_name": "shivammmmmmm/image-classification-models",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "7b5e23de-a6ed-5ea5-995f-7f70f914cda3",
+    "target_name": "keras-io/Image-Classification-using-EANet",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "30ed53e6-10ef-55b9-af29-4fe03f417930",
+    "target_name": "dima806/smoker_image_classification",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "cb5951ab-c1b4-5962-b738-a744a5eb57af",
+    "target_name": "andupets/real-estate-image-classification",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "c57acec0-3d1d-5d19-a665-f070a93570a0",
+    "target_name": "jhoppanne/Dogs-Breed-Image-Classification-V1",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "05bb4732-6421-56a4-84dc-fe0bf8912e09",
+    "target_name": "jinaai/jina-embeddings-v5-text-small-classification",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "4c2dd6e2-8ebd-55a6-a61b-4d6599e4d81a",
+    "target_name": "nickmuchi/deberta-v3-base-finetuned-finance-text-classification",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "9e170a63-99bd-5c05-9d8c-b1c6d729ecbe",
+    "target_name": "savasy/bert-turkish-text-classification",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "bdb65295-e90c-54ef-960b-cb544a9ec693",
+    "target_name": "nickmuchi/distilroberta-finetuned-financial-text-classification",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "75e44bbc-da9c-554c-9597-0ac6b1fc8fec",
+    "target_name": "RichardErkhov/kingabzpro_-_Phi-3.5-mini-instruct-Ecommerce-Text-Classification-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "c64972b9-e2b7-5acc-8e40-3aee42b65092",
+    "target_name": "RichardErkhov/Jahid05_-_llama-3.2-1b-text-classification-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "bcd5976a-b41d-5e85-82b7-80c0bd60e32f",
+    "target_name": "jinaai/jina-embeddings-v5-text-nano-classification-GGUF",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "3a07bffe-89eb-5365-a011-a01f3e32b5d2",
+    "target_name": "RichardErkhov/AndresR2909_-_Llama-3_2-3B-Instruct-suicide-related-text-classification-gguf",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "6182920c-cb20-51ae-b8e5-f6ce021610e9",
+    "target_name": "amitpant7/Nepali-Automatic-Speech-Recognition",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "0aaf8037-0647-50cf-9d65-73c414d40c1c",
+    "target_name": "gam30/nepali-automatic-speech-recognition",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "6df80ba6-bf85-5a70-8941-72595f7d29e6",
+    "target_name": "AventIQ-AI/whisper_small_Automatic_speech_recognition",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "96ddc0df-fee1-536f-b79e-9361f0c714e6",
+    "target_name": "wh1tewhale/dysarthria-automatic-speech-recognition",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "8dfb1be4-d8e4-56aa-a3b4-1389317e7be7",
+    "target_name": "templates/automatic-speech-recognition",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "bbed5564-af66-5e89-98f6-6eaeb502842f",
+    "target_name": "machinelearningzuu/automatic-speech-recognition",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "6ee3708e-f75c-5eca-8820-d70b2a130c99",
+    "target_name": "SalahZa/Tunisian_Automatic_Speech_Recognition",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "0bb76c1c-6b80-5ebe-80ab-823dc6f7a7d3",
+    "target_name": "cr-28/automatic-speech-recognition",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "source_name": "Hugging Face",
+    "source_type": "company",
+    "relationship": "develops",
+    "target_id": "97f2174b-70be-51b3-bb3b-2aae6d9033d5",
+    "target_name": "sachiin04/automatic_speech_recognition",
+    "target_type": "model",
+    "evidence": "explicit metadata reference"
+  },
+  {
+    "source_id": "cd3b0e88-5548-5334-931f-4879d134d929",
+    "source_name": "Open-Generative-AI",
+    "source_type": "repository",
+    "relationship": "implements",
+    "target_id": "d019ea31-aae5-5669-868e-c6985726fbf3",
+    "target_name": "wesleyacheng/dog-breeds-multiclass-image-classification-with-vit",
+    "target_type": "model",
+    "evidence": "strong model-name overlap"
+  },
+  {
+    "source_id": "cd3b0e88-5548-5334-931f-4879d134d929",
+    "source_name": "Open-Generative-AI",
+    "source_type": "repository",
+    "relationship": "implements",
+    "target_id": "44a8bea6-4ea1-57d8-9417-27311a033847",
+    "target_name": "shivammmmmmm/image-classification-models",
+    "target_type": "model",
+    "evidence": "strong model-name overlap"
+  },
+  {
+    "source_id": "1129940957",
+    "source_name": "headroomlabs-ai/headroom",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "6fc6d050-a2cd-516d-a255-26626082cf3d",
+    "target_name": "llm",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1129940957",
+    "source_name": "headroomlabs-ai/headroom",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "3dcc1dc7-6ec8-5ca5-9477-fcea48dc2bfe",
+    "target_name": "agents",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1129940957",
+    "source_name": "headroomlabs-ai/headroom",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1129940957",
+    "source_name": "headroomlabs-ai/headroom",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1166102148",
+    "source_name": "DeusData/codebase-memory-mcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "896296825",
+    "source_name": "PrefectHQ/fastmcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "862584018",
+    "source_name": "modelcontextprotocol/python-sdk",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1224172037",
+    "source_name": "t8y2/dbx",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "00632c93-cf5a-54b2-b13a-38af27ad42fd",
+    "target_name": "cli",
+    "target_type": "tool",
+    "evidence": "tool name explicitly referenced"
+  },
+  {
+    "source_id": "1224172037",
+    "source_name": "t8y2/dbx",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1224172037",
+    "source_name": "t8y2/dbx",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "812044182",
+    "source_name": "googleapis/mcp-toolbox",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "835975784",
+    "source_name": "MODSetter/SurfSense",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "931892749",
+    "source_name": "GLips/Figma-Context-MCP",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "3dcc1dc7-6ec8-5ca5-9477-fcea48dc2bfe",
+    "target_name": "agents",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "931892749",
+    "source_name": "GLips/Figma-Context-MCP",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "931892749",
+    "source_name": "GLips/Figma-Context-MCP",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "306366900",
+    "source_name": "casdoor/casdoor",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "6fc6d050-a2cd-516d-a255-26626082cf3d",
+    "target_name": "llm",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "306366900",
+    "source_name": "casdoor/casdoor",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "862578138",
+    "source_name": "modelcontextprotocol/typescript-sdk",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "998796026",
+    "source_name": "hangwin/mcp-chrome",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "998796026",
+    "source_name": "hangwin/mcp-chrome",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1017550802",
+    "source_name": "0x4m4/hexstrike-ai",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "3dcc1dc7-6ec8-5ca5-9477-fcea48dc2bfe",
+    "target_name": "agents",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1017550802",
+    "source_name": "0x4m4/hexstrike-ai",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1017550802",
+    "source_name": "0x4m4/hexstrike-ai",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "867337374",
+    "source_name": "modelcontextprotocol/inspector",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "956472076",
+    "source_name": "mcp-use/mcp-use",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "3dcc1dc7-6ec8-5ca5-9477-fcea48dc2bfe",
+    "target_name": "agents",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "956472076",
+    "source_name": "mcp-use/mcp-use",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "956472076",
+    "source_name": "mcp-use/mcp-use",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "890668799",
+    "source_name": "modelcontextprotocol/servers",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "960665821",
+    "source_name": "microsoft/mcp-for-beginners",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "960665821",
+    "source_name": "microsoft/mcp-for-beginners",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "944976593",
+    "source_name": "tadata-org/fastapi_mcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "862570523",
+    "source_name": "modelcontextprotocol/modelcontextprotocol",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "895029087",
+    "source_name": "mark3labs/mcp-go",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "6fc6d050-a2cd-516d-a255-26626082cf3d",
+    "target_name": "llm",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "895029087",
+    "source_name": "mark3labs/mcp-go",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "905016458",
+    "source_name": "lastmile-ai/mcp-agent",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "3dcc1dc7-6ec8-5ca5-9477-fcea48dc2bfe",
+    "target_name": "agents",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "905016458",
+    "source_name": "lastmile-ai/mcp-agent",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "905016458",
+    "source_name": "lastmile-ai/mcp-agent",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "927890076",
+    "source_name": "modelcontextprotocol/registry",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "945551361",
+    "source_name": "getsentry/XcodeBuildMCP",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "00632c93-cf5a-54b2-b13a-38af27ad42fd",
+    "target_name": "cli",
+    "target_type": "tool",
+    "evidence": "tool name explicitly referenced"
+  },
+  {
+    "source_id": "945551361",
+    "source_name": "getsentry/XcodeBuildMCP",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "956657893",
+    "source_name": "mobile-next/mobile-mcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1121438740",
+    "source_name": "jacob-bd/gemini-notebook-mcp-cli",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "00632c93-cf5a-54b2-b13a-38af27ad42fd",
+    "target_name": "cli",
+    "target_type": "tool",
+    "evidence": "tool name explicitly referenced"
+  },
+  {
+    "source_id": "1121438740",
+    "source_name": "jacob-bd/gemini-notebook-mcp-cli",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1121438740",
+    "source_name": "jacob-bd/gemini-notebook-mcp-cli",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "895801050",
+    "source_name": "appcypher/awesome-mcp-servers",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "895801050",
+    "source_name": "appcypher/awesome-mcp-servers",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "c1caa728-9e0b-521e-bd2f-04afeb00589b",
+    "target_name": "awesome-mcp-servers",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "898077246",
+    "source_name": "executeautomation/mcp-playwright",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "898077246",
+    "source_name": "executeautomation/mcp-playwright",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1ccb2319-3829-56b9-94d8-c888d656f910",
+    "target_name": "playwright-mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "739667828",
+    "source_name": "nanbingxyz/5ire",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "739667828",
+    "source_name": "nanbingxyz/5ire",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "971300888",
+    "source_name": "modelcontextprotocol/go-sdk",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "953089294",
+    "source_name": "54yyyu/zotero-mcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "953089294",
+    "source_name": "54yyyu/zotero-mcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "946174307",
+    "source_name": "modelcontextprotocol/csharp-sdk",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1033865617",
+    "source_name": "Pimzino/spec-workflow-mcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1033865617",
+    "source_name": "Pimzino/spec-workflow-mcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "193215554",
+    "source_name": "n8n-io/n8n",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "193215554",
+    "source_name": "n8n-io/n8n",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "968197216",
+    "source_name": "google-gemini/gemini-cli",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "00632c93-cf5a-54b2-b13a-38af27ad42fd",
+    "target_name": "cli",
+    "target_type": "tool",
+    "evidence": "tool name explicitly referenced"
+  },
+  {
+    "source_id": "968197216",
+    "source_name": "google-gemini/gemini-cli",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "968197216",
+    "source_name": "google-gemini/gemini-cli",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1130564872",
+    "source_name": "koala73/worldmonitor",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1130564872",
+    "source_name": "koala73/worldmonitor",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "872119017",
+    "source_name": "D4Vinci/Scrapling",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "995029641",
+    "source_name": "ruvnet/ruflo",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "995029641",
+    "source_name": "ruvnet/ruflo",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "974186260",
+    "source_name": "sansan0/TrendRadar",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "974186260",
+    "source_name": "sansan0/TrendRadar",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "955620917",
+    "source_name": "upstash/context7",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "955620917",
+    "source_name": "upstash/context7",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1054793726",
+    "source_name": "ChromeDevTools/chrome-devtools-mcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "3dcc1dc7-6ec8-5ca5-9477-fcea48dc2bfe",
+    "target_name": "agents",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "1054793726",
+    "source_name": "ChromeDevTools/chrome-devtools-mcp",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "249995750",
+    "source_name": "amruthpillai/reactive-resume",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "918932603",
+    "source_name": "bytedance/UI-TARS-desktop",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "918932603",
+    "source_name": "bytedance/UI-TARS-desktop",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "639835356",
+    "source_name": "assafelovic/gpt-researcher",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "6fc6d050-a2cd-516d-a255-26626082cf3d",
+    "target_name": "llm",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "639835356",
+    "source_name": "assafelovic/gpt-researcher",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "953683578",
+    "source_name": "oraios/serena",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "cfa16e94-b9b3-5a0e-aa0d-7f53fee56e48",
+    "source_name": "CodeGraphContext",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "00632c93-cf5a-54b2-b13a-38af27ad42fd",
+    "target_name": "cli",
+    "target_type": "tool",
+    "evidence": "tool name explicitly referenced"
+  },
+  {
+    "source_id": "cfa16e94-b9b3-5a0e-aa0d-7f53fee56e48",
+    "source_name": "CodeGraphContext",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "cfa16e94-b9b3-5a0e-aa0d-7f53fee56e48",
+    "source_name": "CodeGraphContext",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "315d0510-c6ea-5f40-a116-778525b387c7",
+    "source_name": "gemini-mcp-tool",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "00632c93-cf5a-54b2-b13a-38af27ad42fd",
+    "target_name": "cli",
+    "target_type": "tool",
+    "evidence": "tool name explicitly referenced"
+  },
+  {
+    "source_id": "315d0510-c6ea-5f40-a116-778525b387c7",
+    "source_name": "gemini-mcp-tool",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "315d0510-c6ea-5f40-a116-778525b387c7",
+    "source_name": "gemini-mcp-tool",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "d8490488-6905-5881-83e0-b0d4dfb31eff",
+    "source_name": "MCP-Workspace-Server",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "d58f75c0-fa59-58cd-91cd-105252f10b94",
+    "target_name": "dify",
+    "target_type": "tool",
+    "evidence": "tool name explicitly referenced"
+  },
+  {
+    "source_id": "d8490488-6905-5881-83e0-b0d4dfb31eff",
+    "source_name": "MCP-Workspace-Server",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "d8490488-6905-5881-83e0-b0d4dfb31eff",
+    "source_name": "MCP-Workspace-Server",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "7ebce23e-5b47-5b9b-8f73-e551318e3af9",
+    "source_name": "ComfyUI-AnimaTool",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "00632c93-cf5a-54b2-b13a-38af27ad42fd",
+    "target_name": "cli",
+    "target_type": "tool",
+    "evidence": "tool name explicitly referenced"
+  },
+  {
+    "source_id": "7ebce23e-5b47-5b9b-8f73-e551318e3af9",
+    "source_name": "ComfyUI-AnimaTool",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "778308d4-a45a-5211-8110-54ed004a6cd9",
+    "target_name": "ai",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  },
+  {
+    "source_id": "7ebce23e-5b47-5b9b-8f73-e551318e3af9",
+    "source_name": "ComfyUI-AnimaTool",
+    "source_type": "mcp",
+    "relationship": "integrates_with",
+    "target_id": "1bda7c30-12f9-5e9f-b515-3c8a09826b8d",
+    "target_name": "mcp",
+    "target_type": "repository",
+    "evidence": "repository name explicitly referenced"
+  }
+]

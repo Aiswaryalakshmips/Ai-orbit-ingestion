@@ -1,0 +1,202 @@
+[
+  {
+    "id": "731fe467-6075-5392-b2aa-efe972399727",
+    "entity_type": "company",
+    "name": "OpenAI",
+    "description": "OpenAI is an artificial intelligence research and deployment company.",
+    "url": "https://openai.com/",
+    "categories": [
+      "ai company",
+      "artificial intelligence"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://openai.com/"
+    },
+    "metadata": {
+      "founding_year": 2015,
+      "industry_sector": "Artificial Intelligence",
+      "headquarters": "San Francisco, California, USA"
+    }
+  },
+  {
+    "id": "837b9bb1-070f-51a9-8393-ba06fe1150eb",
+    "entity_type": "company",
+    "name": "Anthropic",
+    "description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "url": "https://www.anthropic.com/",
+    "categories": [
+      "ai company",
+      "artificial intelligence"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://www.anthropic.com/"
+    },
+    "metadata": {
+      "founding_year": 2021,
+      "industry_sector": "Artificial Intelligence",
+      "headquarters": "San Francisco, California, USA"
+    }
+  },
+  {
+    "id": "201267a6-4b90-50b7-a596-7be31832606e",
+    "entity_type": "company",
+    "name": "Hugging Face",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "url": "https://huggingface.co/",
+    "categories": [
+      "ai company",
+      "ai / machine learning"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://huggingface.co/"
+    },
+    "metadata": {
+      "founding_year": 2016,
+      "industry_sector": "AI / Machine Learning",
+      "headquarters": "New York, USA"
+    }
+  },
+  {
+    "id": "ea45824d-c948-5e23-a939-7d6a845bdc0b",
+    "entity_type": "company",
+    "name": "Google DeepMind",
+    "description": "Artificial intelligence could be one of humanityâs most useful inventions. We research and build safe artificial intelligence systems. We're committed to solving intelligence, to advance science and â¦",
+    "url": "https://deepmind.google/",
+    "categories": [
+      "ai company",
+      "artificial intelligence research"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://deepmind.google/"
+    },
+    "metadata": {
+      "founding_year": 2010,
+      "industry_sector": "Artificial Intelligence Research",
+      "headquarters": "London, UK"
+    }
+  },
+  {
+    "id": "25cac24c-f8de-5487-b54c-98c74b2e8e5a",
+    "entity_type": "company",
+    "name": "Mistral AI",
+    "description": "The most powerful AI platform for enterprises. Customize, fine-tune, and deploy AI assistants, autonomous agents, and multimodal AI with open models.",
+    "url": "https://mistral.ai/",
+    "categories": [
+      "ai company",
+      "artificial intelligence"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://mistral.ai/"
+    },
+    "metadata": {
+      "founding_year": 2023,
+      "industry_sector": "Artificial Intelligence",
+      "headquarters": "Paris, France"
+    }
+  },
+  {
+    "id": "93bec45f-0947-59c0-af51-3027bbf0eb89",
+    "entity_type": "company",
+    "name": "Cohere",
+    "description": "Cohere builds powerful models and AI solutions enabling enterprises to automate processes, empower employees, and turn fragmented data into actionable insights.",
+    "url": "https://cohere.com/",
+    "categories": [
+      "ai company",
+      "artificial intelligence"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://cohere.com/"
+    },
+    "metadata": {
+      "founding_year": 2019,
+      "industry_sector": "Artificial Intelligence",
+      "headquarters": "Toronto, Canada"
+    }
+  },
+  {
+    "id": "e20f070d-286b-5dc6-8a59-4882507d73f0",
+    "entity_type": "company",
+    "name": "Perplexity",
+    "description": "Perplexity is an AI-powered search and answer engine.",
+    "url": "https://www.perplexity.ai/",
+    "categories": [
+      "ai company",
+      "ai search"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://www.perplexity.ai/"
+    },
+    "metadata": {
+      "founding_year": 2022,
+      "industry_sector": "AI Search",
+      "headquarters": "San Francisco, California, USA"
+    }
+  },
+  {
+    "id": "29b9a613-047a-58a2-90a8-4244287e90c3",
+    "entity_type": "company",
+    "name": "Runway",
+    "description": "Runway is building foundational Real-World Intelligence that can understand, simulate and act in the world. We offer products and services built on-top of this intelligence to empower individuals and organizations to do more in the world.",
+    "url": "https://runwayml.com/",
+    "categories": [
+      "ai company",
+      "generative ai"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://runwayml.com/"
+    },
+    "metadata": {
+      "founding_year": 2018,
+      "industry_sector": "Generative AI",
+      "headquarters": "New York, USA"
+    }
+  },
+  {
+    "id": "cd60c006-0ff3-5dbc-aa74-09ad72db5948",
+    "entity_type": "company",
+    "name": "Scale AI",
+    "description": "Scale delivers proven data, evaluations, and outcomes to AI labs, governments, and the Fortune 500.",
+    "url": "https://scale.com/",
+    "categories": [
+      "ai company",
+      "ai data infrastructure"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://scale.com/"
+    },
+    "metadata": {
+      "founding_year": 2016,
+      "industry_sector": "AI Data Infrastructure",
+      "headquarters": "San Francisco, California, USA"
+    }
+  },
+  {
+    "id": "6e95802b-8c9b-5d1f-86ae-c3f7cbcc5e0c",
+    "entity_type": "company",
+    "name": "Stability AI",
+    "description": "Stability AI is the enterprise-ready creative partner for teams and creators, delivering professional-grade generative AI tools and solutions for content production at scale.",
+    "url": "https://stability.ai/",
+    "categories": [
+      "ai company",
+      "generative ai"
+    ],
+    "source": {
+      "name": "Official Company Website",
+      "url": "https://stability.ai/"
+    },
+    "metadata": {
+      "founding_year": 2019,
+      "industry_sector": "Generative AI",
+      "headquarters": "London, UK"
+    }
+  }
+]

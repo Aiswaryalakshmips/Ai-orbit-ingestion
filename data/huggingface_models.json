@@ -1,0 +1,1283 @@
+[
+  {
+    "id": "6a1526f9-765a-5a0e-901d-f5eb34f942c8",
+    "entity_type": "model",
+    "name": "masterful/gligen-1-4-generation-text-box",
+    "description": "Hugging Face model: masterful/gligen-1-4-generation-text-box",
+    "url": "https://huggingface.co/masterful/gligen-1-4-generation-text-box",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/masterful/gligen-1-4-generation-text-box"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 1349,
+      "likes": 9,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "license": null,
+      "modalities": [
+        "text-to-image"
+      ]
+    }
+  },
+  {
+    "id": "f8784675-6114-5923-9ab5-101860d69bb0",
+    "entity_type": "model",
+    "name": "randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only",
+    "description": "Hugging Face model: randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only",
+    "url": "https://huggingface.co/randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/randmaru/Qwen3.8-27B-mlx-mxfp4-text-generation-only"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 673,
+      "likes": 0,
+      "pipeline_tag": "text-generation",
+      "library_name": "mlx",
+      "license": null,
+      "modalities": [
+        "text"
+      ]
+    }
+  },
+  {
+    "id": "b32865f8-6d93-5bd3-bd97-914171a04302",
+    "entity_type": "model",
+    "name": "RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf",
+    "description": "Hugging Face model: RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf",
+    "url": "https://huggingface.co/RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/mayankbirthariya_-_gita-text-generation-gpt2-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 599,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "6c785a5c-0955-5abe-a0b5-bece980b4728",
+    "entity_type": "model",
+    "name": "RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf",
+    "description": "Hugging Face model: RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf",
+    "url": "https://huggingface.co/RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/Siddalingamurthy_-_gita-text-generation-gpt2-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 594,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "e7c15308-613b-5150-a28e-cf3d07f24e49",
+    "entity_type": "model",
+    "name": "RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf",
+    "description": "Hugging Face model: RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf",
+    "url": "https://huggingface.co/RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/hemantkgupta_-_gita-text-generation-gpt2-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 531,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "8002e435-aa15-5aab-a57c-3f1918564a01",
+    "entity_type": "model",
+    "name": "RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf",
+    "description": "Hugging Face model: RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf",
+    "url": "https://huggingface.co/RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/nikeshthapa255_-_gita-text-generation-gpt2-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 493,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "f5de33ee-40aa-5d25-8d25-5b7d6858613c",
+    "entity_type": "model",
+    "name": "RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf",
+    "description": "Hugging Face model: RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf",
+    "url": "https://huggingface.co/RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/srinivasyasareni_-_gita-text-generation-gpt2-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 480,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "8d9d70dc-baf2-58ef-8aa7-fcd534c075ad",
+    "entity_type": "model",
+    "name": "RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf",
+    "description": "Hugging Face model: RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf",
+    "url": "https://huggingface.co/RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/RajeevkumarYadana_-_gita-text-generation-gpt2-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 470,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "4a276d61-6e19-544e-8e6b-ce7923b0b119",
+    "entity_type": "model",
+    "name": "RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf",
+    "description": "Hugging Face model: RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf",
+    "url": "https://huggingface.co/RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/saibhargavi260_-_gita-text-generation-gpt2-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 461,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "44ddcbec-a17f-56eb-8a42-90713519c454",
+    "entity_type": "model",
+    "name": "RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf",
+    "description": "Hugging Face model: RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf",
+    "url": "https://huggingface.co/RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/Abhinavanand21_-_gita-text-generation-gpt2-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 458,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "0d61b7fc-e234-5586-9f06-d117f5b0e878",
+    "entity_type": "model",
+    "name": "Akalabeth12/Text-to-Image",
+    "description": "Hugging Face model: Akalabeth12/Text-to-Image",
+    "url": "https://huggingface.co/Akalabeth12/Text-to-Image",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Akalabeth12/Text-to-Image"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 1096,
+      "likes": 1,
+      "pipeline_tag": null,
+      "library_name": "diffusers",
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "f0f0b729-f632-543b-ac22-b076de268481",
+    "entity_type": "model",
+    "name": "ZB-Tech/Text-to-Image",
+    "description": "Hugging Face model: ZB-Tech/Text-to-Image",
+    "url": "https://huggingface.co/ZB-Tech/Text-to-Image",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/ZB-Tech/Text-to-Image"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 590,
+      "likes": 96,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "license": null,
+      "modalities": [
+        "text-to-image"
+      ]
+    }
+  },
+  {
+    "id": "c60647bb-2604-527a-8981-405f6fe62ccb",
+    "entity_type": "model",
+    "name": "cloudqi/cqi_text_to_image_pt_v0",
+    "description": "Hugging Face model: cloudqi/cqi_text_to_image_pt_v0",
+    "url": "https://huggingface.co/cloudqi/cqi_text_to_image_pt_v0",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/cloudqi/cqi_text_to_image_pt_v0"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 117,
+      "likes": 22,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "license": null,
+      "modalities": [
+        "text-to-image"
+      ]
+    }
+  },
+  {
+    "id": "0e122c59-3d98-537e-8eb9-5c55f4935516",
+    "entity_type": "model",
+    "name": "sairajg/Text_To_Image",
+    "description": "Hugging Face model: sairajg/Text_To_Image",
+    "url": "https://huggingface.co/sairajg/Text_To_Image",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/sairajg/Text_To_Image"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 79,
+      "likes": 14,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "license": null,
+      "modalities": [
+        "text-to-image"
+      ]
+    }
+  },
+  {
+    "id": "774e2b98-2f32-5cd1-a126-41880e0e309c",
+    "entity_type": "model",
+    "name": "Keynote-Technology/TIGMaN-text-to-image",
+    "description": "Hugging Face model: Keynote-Technology/TIGMaN-text-to-image",
+    "url": "https://huggingface.co/Keynote-Technology/TIGMaN-text-to-image",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Keynote-Technology/TIGMaN-text-to-image"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 24,
+      "likes": 1,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "license": null,
+      "modalities": [
+        "text-to-image"
+      ]
+    }
+  },
+  {
+    "id": "e0e47de5-a580-559f-8c30-cabb31020a8b",
+    "entity_type": "model",
+    "name": "ford442/blip2-image-to-text-bf16",
+    "description": "Hugging Face model: ford442/blip2-image-to-text-bf16",
+    "url": "https://huggingface.co/ford442/blip2-image-to-text-bf16",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/ford442/blip2-image-to-text-bf16"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 23,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "67b1cfab-ee1a-55f6-8e68-e4a07adf79d3",
+    "entity_type": "model",
+    "name": "Pramodmunje/Text-to-Image",
+    "description": "Hugging Face model: Pramodmunje/Text-to-Image",
+    "url": "https://huggingface.co/Pramodmunje/Text-to-Image",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Pramodmunje/Text-to-Image"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 19,
+      "likes": 0,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "license": null,
+      "modalities": [
+        "text-to-image"
+      ]
+    }
+  },
+  {
+    "id": "f6144d89-ad84-5370-9992-77208ee86c93",
+    "entity_type": "model",
+    "name": "terra-cognita-ai/ResAI_Image-to-text_Champ",
+    "description": "Hugging Face model: terra-cognita-ai/ResAI_Image-to-text_Champ",
+    "url": "https://huggingface.co/terra-cognita-ai/ResAI_Image-to-text_Champ",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/terra-cognita-ai/ResAI_Image-to-text_Champ"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 16,
+      "likes": 0,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "f4499c3f-23f7-5f32-8e28-2ee9f0be08f1",
+    "entity_type": "model",
+    "name": "blackmariaaa/text-to-image.ai",
+    "description": "Hugging Face model: blackmariaaa/text-to-image.ai",
+    "url": "https://huggingface.co/blackmariaaa/text-to-image.ai",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/blackmariaaa/text-to-image.ai"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 14,
+      "likes": 2,
+      "pipeline_tag": "text-to-image",
+      "library_name": "diffusers",
+      "license": null,
+      "modalities": [
+        "text-to-image"
+      ]
+    }
+  },
+  {
+    "id": "3bdc2573-6f7e-5b7f-950a-d6aa48be4519",
+    "entity_type": "model",
+    "name": "durgaa22/image-to-text-model",
+    "description": "Hugging Face model: durgaa22/image-to-text-model",
+    "url": "https://huggingface.co/durgaa22/image-to-text-model",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/durgaa22/image-to-text-model"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 14,
+      "likes": 0,
+      "pipeline_tag": "image-text-to-text",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "e3fb6dfb-b85e-544c-b74b-e41d8d58a48f",
+    "entity_type": "model",
+    "name": "Anwarkh1/Skin_Cancer-Image_Classification",
+    "description": "Hugging Face model: Anwarkh1/Skin_Cancer-Image_Classification",
+    "url": "https://huggingface.co/Anwarkh1/Skin_Cancer-Image_Classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/Anwarkh1/Skin_Cancer-Image_Classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 1549,
+      "likes": 43,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "image"
+      ]
+    }
+  },
+  {
+    "id": "d019ea31-aae5-5669-868e-c6985726fbf3",
+    "entity_type": "model",
+    "name": "wesleyacheng/dog-breeds-multiclass-image-classification-with-vit",
+    "description": "Hugging Face model: wesleyacheng/dog-breeds-multiclass-image-classification-with-vit",
+    "url": "https://huggingface.co/wesleyacheng/dog-breeds-multiclass-image-classification-with-vit",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/wesleyacheng/dog-breeds-multiclass-image-classification-with-vit"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 1189,
+      "likes": 9,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "image"
+      ]
+    }
+  },
+  {
+    "id": "c4f14f0a-ea83-531b-b45c-4136d2298888",
+    "entity_type": "model",
+    "name": "prithivMLmods/Weather-Image-Classification",
+    "description": "Hugging Face model: prithivMLmods/Weather-Image-Classification",
+    "url": "https://huggingface.co/prithivMLmods/Weather-Image-Classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/prithivMLmods/Weather-Image-Classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 528,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "image"
+      ]
+    }
+  },
+  {
+    "id": "38a43e06-9fc4-540b-9d55-382667eb0720",
+    "entity_type": "model",
+    "name": "0xgr3y/Arch-Building-Image-Classification",
+    "description": "Hugging Face model: 0xgr3y/Arch-Building-Image-Classification",
+    "url": "https://huggingface.co/0xgr3y/Arch-Building-Image-Classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/0xgr3y/Arch-Building-Image-Classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 516,
+      "likes": 0,
+      "pipeline_tag": "image-classification",
+      "library_name": "keras",
+      "license": null,
+      "modalities": [
+        "image"
+      ]
+    }
+  },
+  {
+    "id": "502e379c-bc11-5714-99bf-83a1e6882b5d",
+    "entity_type": "model",
+    "name": "ideepankarsharma2003/AI_ImageClassification_MidjourneyV6_SDXL",
+    "description": "Hugging Face model: ideepankarsharma2003/AI_ImageClassification_MidjourneyV6_SDXL",
+    "url": "https://huggingface.co/ideepankarsharma2003/AI_ImageClassification_MidjourneyV6_SDXL",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/ideepankarsharma2003/AI_ImageClassification_MidjourneyV6_SDXL"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 302,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "image"
+      ]
+    }
+  },
+  {
+    "id": "44a8bea6-4ea1-57d8-9417-27311a033847",
+    "entity_type": "model",
+    "name": "shivammmmmmm/image-classification-models",
+    "description": "Hugging Face model: shivammmmmmm/image-classification-models",
+    "url": "https://huggingface.co/shivammmmmmm/image-classification-models",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/shivammmmmmm/image-classification-models"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 241,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": "keras",
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "7b5e23de-a6ed-5ea5-995f-7f70f914cda3",
+    "entity_type": "model",
+    "name": "keras-io/Image-Classification-using-EANet",
+    "description": "Hugging Face model: keras-io/Image-Classification-using-EANet",
+    "url": "https://huggingface.co/keras-io/Image-Classification-using-EANet",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/keras-io/Image-Classification-using-EANet"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 139,
+      "likes": 2,
+      "pipeline_tag": "image-classification",
+      "library_name": "tf-keras",
+      "license": null,
+      "modalities": [
+        "image"
+      ]
+    }
+  },
+  {
+    "id": "30ed53e6-10ef-55b9-af29-4fe03f417930",
+    "entity_type": "model",
+    "name": "dima806/smoker_image_classification",
+    "description": "Hugging Face model: dima806/smoker_image_classification",
+    "url": "https://huggingface.co/dima806/smoker_image_classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/dima806/smoker_image_classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 138,
+      "likes": 4,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "image"
+      ]
+    }
+  },
+  {
+    "id": "cb5951ab-c1b4-5962-b738-a744a5eb57af",
+    "entity_type": "model",
+    "name": "andupets/real-estate-image-classification",
+    "description": "Hugging Face model: andupets/real-estate-image-classification",
+    "url": "https://huggingface.co/andupets/real-estate-image-classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/andupets/real-estate-image-classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 124,
+      "likes": 22,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "image"
+      ]
+    }
+  },
+  {
+    "id": "c57acec0-3d1d-5d19-a665-f070a93570a0",
+    "entity_type": "model",
+    "name": "jhoppanne/Dogs-Breed-Image-Classification-V1",
+    "description": "Hugging Face model: jhoppanne/Dogs-Breed-Image-Classification-V1",
+    "url": "https://huggingface.co/jhoppanne/Dogs-Breed-Image-Classification-V1",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jhoppanne/Dogs-Breed-Image-Classification-V1"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 107,
+      "likes": 0,
+      "pipeline_tag": "image-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "image"
+      ]
+    }
+  },
+  {
+    "id": "05bb4732-6421-56a4-84dc-fe0bf8912e09",
+    "entity_type": "model",
+    "name": "jinaai/jina-embeddings-v5-text-small-classification",
+    "description": "Hugging Face model: jinaai/jina-embeddings-v5-text-small-classification",
+    "url": "https://huggingface.co/jinaai/jina-embeddings-v5-text-small-classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jinaai/jina-embeddings-v5-text-small-classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 3221,
+      "likes": 4,
+      "pipeline_tag": "text-classification",
+      "library_name": "llama.cpp",
+      "license": null,
+      "modalities": [
+        "text"
+      ]
+    }
+  },
+  {
+    "id": "a8374838-a96e-5f98-a15c-c87aa10282e1",
+    "entity_type": "model",
+    "name": "jinaai/jina-embeddings-v5-text-nano-classification",
+    "description": "Hugging Face model: jinaai/jina-embeddings-v5-text-nano-classification",
+    "url": "https://huggingface.co/jinaai/jina-embeddings-v5-text-nano-classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jinaai/jina-embeddings-v5-text-nano-classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 1956,
+      "likes": 10,
+      "pipeline_tag": "text-classification",
+      "library_name": "llama.cpp",
+      "license": null,
+      "modalities": [
+        "text"
+      ]
+    }
+  },
+  {
+    "id": "4c2dd6e2-8ebd-55a6-a61b-4d6599e4d81a",
+    "entity_type": "model",
+    "name": "nickmuchi/deberta-v3-base-finetuned-finance-text-classification",
+    "description": "Hugging Face model: nickmuchi/deberta-v3-base-finetuned-finance-text-classification",
+    "url": "https://huggingface.co/nickmuchi/deberta-v3-base-finetuned-finance-text-classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/nickmuchi/deberta-v3-base-finetuned-finance-text-classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 1476,
+      "likes": 21,
+      "pipeline_tag": "text-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "text"
+      ]
+    }
+  },
+  {
+    "id": "9e170a63-99bd-5c05-9d8c-b1c6d729ecbe",
+    "entity_type": "model",
+    "name": "savasy/bert-turkish-text-classification",
+    "description": "Hugging Face model: savasy/bert-turkish-text-classification",
+    "url": "https://huggingface.co/savasy/bert-turkish-text-classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/savasy/bert-turkish-text-classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 899,
+      "likes": 22,
+      "pipeline_tag": "text-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "text"
+      ]
+    }
+  },
+  {
+    "id": "bdb65295-e90c-54ef-960b-cb544a9ec693",
+    "entity_type": "model",
+    "name": "nickmuchi/distilroberta-finetuned-financial-text-classification",
+    "description": "Hugging Face model: nickmuchi/distilroberta-finetuned-financial-text-classification",
+    "url": "https://huggingface.co/nickmuchi/distilroberta-finetuned-financial-text-classification",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/nickmuchi/distilroberta-finetuned-financial-text-classification"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 450,
+      "likes": 16,
+      "pipeline_tag": "text-classification",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "text"
+      ]
+    }
+  },
+  {
+    "id": "75e44bbc-da9c-554c-9597-0ac6b1fc8fec",
+    "entity_type": "model",
+    "name": "RichardErkhov/kingabzpro_-_Phi-3.5-mini-instruct-Ecommerce-Text-Classification-gguf",
+    "description": "Hugging Face model: RichardErkhov/kingabzpro_-_Phi-3.5-mini-instruct-Ecommerce-Text-Classification-gguf",
+    "url": "https://huggingface.co/RichardErkhov/kingabzpro_-_Phi-3.5-mini-instruct-Ecommerce-Text-Classification-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/kingabzpro_-_Phi-3.5-mini-instruct-Ecommerce-Text-Classification-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 389,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "c64972b9-e2b7-5acc-8e40-3aee42b65092",
+    "entity_type": "model",
+    "name": "RichardErkhov/Jahid05_-_llama-3.2-1b-text-classification-gguf",
+    "description": "Hugging Face model: RichardErkhov/Jahid05_-_llama-3.2-1b-text-classification-gguf",
+    "url": "https://huggingface.co/RichardErkhov/Jahid05_-_llama-3.2-1b-text-classification-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/Jahid05_-_llama-3.2-1b-text-classification-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 289,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "510e5d82-9d52-5fc4-adac-77a09dd14977",
+    "entity_type": "model",
+    "name": "jinaai/jina-embeddings-v5-text-small-classification-GGUF",
+    "description": "Hugging Face model: jinaai/jina-embeddings-v5-text-small-classification-GGUF",
+    "url": "https://huggingface.co/jinaai/jina-embeddings-v5-text-small-classification-GGUF",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jinaai/jina-embeddings-v5-text-small-classification-GGUF"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 275,
+      "likes": 1,
+      "pipeline_tag": "text-classification",
+      "library_name": "llama.cpp",
+      "license": null,
+      "modalities": [
+        "text"
+      ]
+    }
+  },
+  {
+    "id": "bcd5976a-b41d-5e85-82b7-80c0bd60e32f",
+    "entity_type": "model",
+    "name": "jinaai/jina-embeddings-v5-text-nano-classification-GGUF",
+    "description": "Hugging Face model: jinaai/jina-embeddings-v5-text-nano-classification-GGUF",
+    "url": "https://huggingface.co/jinaai/jina-embeddings-v5-text-nano-classification-GGUF",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/jinaai/jina-embeddings-v5-text-nano-classification-GGUF"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 216,
+      "likes": 0,
+      "pipeline_tag": "text-classification",
+      "library_name": "llama.cpp",
+      "license": null,
+      "modalities": [
+        "text"
+      ]
+    }
+  },
+  {
+    "id": "3a07bffe-89eb-5365-a011-a01f3e32b5d2",
+    "entity_type": "model",
+    "name": "RichardErkhov/AndresR2909_-_Llama-3_2-3B-Instruct-suicide-related-text-classification-gguf",
+    "description": "Hugging Face model: RichardErkhov/AndresR2909_-_Llama-3_2-3B-Instruct-suicide-related-text-classification-gguf",
+    "url": "https://huggingface.co/RichardErkhov/AndresR2909_-_Llama-3_2-3B-Instruct-suicide-related-text-classification-gguf",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/RichardErkhov/AndresR2909_-_Llama-3_2-3B-Instruct-suicide-related-text-classification-gguf"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 161,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "6182920c-cb20-51ae-b8e5-f6ce021610e9",
+    "entity_type": "model",
+    "name": "amitpant7/Nepali-Automatic-Speech-Recognition",
+    "description": "Hugging Face model: amitpant7/Nepali-Automatic-Speech-Recognition",
+    "url": "https://huggingface.co/amitpant7/Nepali-Automatic-Speech-Recognition",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/amitpant7/Nepali-Automatic-Speech-Recognition"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 84,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "0aaf8037-0647-50cf-9d65-73c414d40c1c",
+    "entity_type": "model",
+    "name": "gam30/nepali-automatic-speech-recognition",
+    "description": "Hugging Face model: gam30/nepali-automatic-speech-recognition",
+    "url": "https://huggingface.co/gam30/nepali-automatic-speech-recognition",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/gam30/nepali-automatic-speech-recognition"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 10,
+      "likes": 0,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "nemo",
+      "license": null,
+      "modalities": [
+        "audio"
+      ]
+    }
+  },
+  {
+    "id": "6df80ba6-bf85-5a70-8941-72595f7d29e6",
+    "entity_type": "model",
+    "name": "AventIQ-AI/whisper_small_Automatic_speech_recognition",
+    "description": "Hugging Face model: AventIQ-AI/whisper_small_Automatic_speech_recognition",
+    "url": "https://huggingface.co/AventIQ-AI/whisper_small_Automatic_speech_recognition",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/AventIQ-AI/whisper_small_Automatic_speech_recognition"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 7,
+      "likes": 5,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "96ddc0df-fee1-536f-b79e-9361f0c714e6",
+    "entity_type": "model",
+    "name": "wh1tewhale/dysarthria-automatic-speech-recognition",
+    "description": "Hugging Face model: wh1tewhale/dysarthria-automatic-speech-recognition",
+    "url": "https://huggingface.co/wh1tewhale/dysarthria-automatic-speech-recognition",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/wh1tewhale/dysarthria-automatic-speech-recognition"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 4,
+      "likes": 0,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "transformers",
+      "license": null,
+      "modalities": [
+        "audio"
+      ]
+    }
+  },
+  {
+    "id": "8dfb1be4-d8e4-56aa-a3b4-1389317e7be7",
+    "entity_type": "model",
+    "name": "templates/automatic-speech-recognition",
+    "description": "Hugging Face model: templates/automatic-speech-recognition",
+    "url": "https://huggingface.co/templates/automatic-speech-recognition",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/templates/automatic-speech-recognition"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 0,
+      "likes": 3,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "generic",
+      "license": null,
+      "modalities": [
+        "audio"
+      ]
+    }
+  },
+  {
+    "id": "bbed5564-af66-5e89-98f6-6eaeb502842f",
+    "entity_type": "model",
+    "name": "machinelearningzuu/automatic-speech-recognition",
+    "description": "Hugging Face model: machinelearningzuu/automatic-speech-recognition",
+    "url": "https://huggingface.co/machinelearningzuu/automatic-speech-recognition",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/machinelearningzuu/automatic-speech-recognition"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 0,
+      "likes": 1,
+      "pipeline_tag": "automatic-speech-recognition",
+      "library_name": "adapter-transformers",
+      "license": null,
+      "modalities": [
+        "audio"
+      ]
+    }
+  },
+  {
+    "id": "6ee3708e-f75c-5eca-8820-d70b2a130c99",
+    "entity_type": "model",
+    "name": "SalahZa/Tunisian_Automatic_Speech_Recognition",
+    "description": "Hugging Face model: SalahZa/Tunisian_Automatic_Speech_Recognition",
+    "url": "https://huggingface.co/SalahZa/Tunisian_Automatic_Speech_Recognition",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/SalahZa/Tunisian_Automatic_Speech_Recognition"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 0,
+      "likes": 7,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "0bb76c1c-6b80-5ebe-80ab-823dc6f7a7d3",
+    "entity_type": "model",
+    "name": "cr-28/automatic-speech-recognition",
+    "description": "Hugging Face model: cr-28/automatic-speech-recognition",
+    "url": "https://huggingface.co/cr-28/automatic-speech-recognition",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/cr-28/automatic-speech-recognition"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 0,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  },
+  {
+    "id": "97f2174b-70be-51b3-bb3b-2aae6d9033d5",
+    "entity_type": "model",
+    "name": "sachiin04/automatic_speech_recognition",
+    "description": "Hugging Face model: sachiin04/automatic_speech_recognition",
+    "url": "https://huggingface.co/sachiin04/automatic_speech_recognition",
+    "categories": [
+      "AI",
+      "Machine Learning",
+      "Model"
+    ],
+    "source": {
+      "name": "Hugging Face",
+      "url": "https://huggingface.co/sachiin04/automatic_speech_recognition"
+    },
+    "metadata": {
+      "provider": "Hugging Face",
+      "downloads": 0,
+      "likes": 0,
+      "pipeline_tag": null,
+      "library_name": null,
+      "license": null,
+      "modalities": []
+    }
+  }
+]
