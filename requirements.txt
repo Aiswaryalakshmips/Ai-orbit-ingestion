@@ -2,5 +2,7 @@ requests
 python-dotenv
 feedparser
 beautifulsoup4
-pydantic
+pydantic==2.10.6
 rapidfuzz
+fastapi==0.115.6
+uvicorn==0.34.0
